@@ -1,3 +1,7 @@
+# Latest version can be found on https://apps.magicmau.nl
+
+This version is quite old now, and I plan to keep backups of the latest releases here, but be sure to check https://apps.magicmau.nl for the latest.
+
 # EliteG19s Manual
 
 ##### version 3.7
